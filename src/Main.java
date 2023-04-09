@@ -6,5 +6,8 @@ public class Main {
         }
 
         System.out.println("I love Automation Testing");
+
+
+        System.out.println("I love Java");
     }
 }
